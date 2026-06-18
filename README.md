@@ -12,12 +12,12 @@
 <p align="center">
   <a href="https://krshanto.com">Portfolio</a> -
   <a href="https://www.linkedin.com/in/krshanto/">LinkedIn</a> -
-  <a href="https://github.com/KRShanto">GitHub</a> -
+  <a href="https://github.com/Shantodotdev">GitHub</a> -
   <a href="mailto:krshanto2005@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KRShanto&style=flat-square&color=0f172a" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shantodotdev&style=flat-square&color=0f172a" alt="Profile views" />
   <img src="https://img.shields.io/badge/Based%20in-Dhaka,%20Bangladesh-0f172a?style=flat-square" alt="Based in Dhaka, Bangladesh" />
   <img src="https://img.shields.io/badge/Focus-SaaS%20%26%20Enterprise%20Software-0f172a?style=flat-square" alt="SaaS and Enterprise Software" />
 </p>
@@ -48,7 +48,7 @@ I am currently focused on building software for founders and businesses that nee
 | [Blood Sheba](https://www.bloodsheba.com/) | Blood donation platform connecting donors and people who need blood. | Next.js, React, Prisma, Vercel |
 | [GTD Media Production](https://www.gtdnet.online/) | Video production company website with service showcase, portfolio, contact flow, and an OpenAI-powered assistant. | Next.js, TypeScript, Tailwind CSS, Vercel AI SDK, OpenAI |
 | [iSchool](https://ischool-chi.vercel.app/) | School management demo with auth, dashboards, analytics, uploads, and role-based product structure. | Next.js 16, React 19, Prisma, UploadThing, Recharts |
-| [Moneymiter](https://github.com/KRShanto) | Smart finance tracking app for transactions, analytics, calendar views, reports, and multi-currency personal finance workflows. | React, TypeScript, Supabase, React Query, Recharts |
+| [Moneymiter](https://github.com/Shantodotdev) | Smart finance tracking app for transactions, analytics, calendar views, reports, and multi-currency personal finance workflows. | React, TypeScript, Supabase, React Query, Recharts |
 | [BWKD](https://bwkd.org) | Website and school-style management experience for Bangladesh Wadokai Karate Do. | Next.js, React, Supabase, shadcn/ui |
 
 ---
@@ -119,12 +119,12 @@ I care about:
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KRShanto&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="KRShanto GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRShanto&layout=compact&theme=github_dark&hide_border=true" alt="KRShanto top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shantodotdev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Shantodotdev GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantodotdev&layout=compact&theme=github_dark&hide_border=true" alt="Shantodotdev top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KRShanto&theme=github-dark-blue&hide_border=true" alt="KRShanto GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Shantodotdev&theme=github-dark-blue&hide_border=true" alt="Shantodotdev GitHub streak" />
 </p>
 
 ---
